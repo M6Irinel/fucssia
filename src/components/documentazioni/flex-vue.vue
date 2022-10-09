@@ -1,12 +1,8 @@
 <template>
-    <div id="flex">
-        flex
-    </div>
+  <div id="flex">flex</div>
 </template>
 
 
 <script>
-export default {
-    
-}
+export default {};
 </script>

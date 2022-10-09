@@ -1,12 +1,10 @@
 <template>
-    <div id="color">
-        color
-    </div>
+  <div id="color">color</div>
 </template>
 
 
 <script>
 export default {
-    name: 'ColorVue'
-}
+  name: "ColorVue",
+};
 </script>

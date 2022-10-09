@@ -13,7 +13,8 @@
       bold
       green-6
       t-shadow-5-dark
-      d-none-lg
+      pointer
+      shadow-5-dark
     "
     @click="isOpenAside"
   >

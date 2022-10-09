@@ -1,12 +1,8 @@
 <template>
-    <div id="bg-color">
-        backgroung-color
-    </div>
+  <div id="bg-color">backgroung-color</div>
 </template>
 
 
 <script>
-export default {
-    
-}
+export default {};
 </script>
